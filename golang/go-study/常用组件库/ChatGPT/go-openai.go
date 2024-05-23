@@ -18,7 +18,7 @@ import (
 // https://juejin.cn/post/7210639699583713339?#heading-5
 
 const (
-	apiToken = "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"
+	apiToken = ""
 
 	apiURL = "https://api.openai.com/v1/chat/completions"
 )
